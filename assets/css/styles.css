@@ -490,22 +490,22 @@ img{
 
 
 .skills__C{
-    width: 40%;
+    width: 50%;
 }
 .skills__python{
     width: 60%;
 }
 .skills__ROS{
-    width: 30%;
+    width: 60%;
 }
-.skills__TF{
-    width: 30%;
+.skills__PyTorch{
+    width: 40%;
 }
 .skills__linux{
-    width: 30%;
+    width: 50%;
 }
 .skills__web{
-    width: 50%;
+    width: 40%;
 }
 
 .skills__wiring{
